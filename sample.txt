@@ -1,0 +1,1 @@
+git cares about this sample.txt file, not the requirements.txt because this file is trackable compared to requirements.txt
