@@ -1,9 +1,1 @@
-# This is my README file for the ***Git Made Easy*** repo.
-
-## This course has multiple sections
-
-1. Git Basics
-1. More advanced topics
-1. Other information
-
-### I am making a change to this file to to test separate commits
+# This is my repo for the [Git Made Easy: A Crash Course for Beginners - 2025](https://www.udemy.com/course/git-essentials-for-beginners) course by Bryan Krausen.
